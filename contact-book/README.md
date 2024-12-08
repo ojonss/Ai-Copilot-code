@@ -17,19 +17,23 @@ A simple contact book application that allows you to add and save contacts with 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/contact-book.git
+   git clone https://github.com/ojonss/Ai-Copilot-code
    cd contact-book
 
 2. Install the dependencies:
+    ```sh
     npm install
 
 3. Start MongoDB:
+    ```sh
     mongod
 
 4. Start the server:
+    ```sh
     node server.js
 
 5. Run the TUI:
+    ```sh
     node tui.js
 
 ## Usage
@@ -37,6 +41,7 @@ A simple contact book application that allows you to add and save contacts with 
 Adding a Contact
 
 1. Run the TUI:
+    ```sh
     node tui.js
 
 2. Select the option to add a contact.
@@ -46,6 +51,7 @@ Adding a Contact
 ## Searching Contacts
 
 1. Run the TUI:
+    ```sh
     node tui.js
 
 2. Select the option to search contacts.
